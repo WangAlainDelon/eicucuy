@@ -16,13 +16,11 @@ public class EICucuyController {
 //    @Autowired
 //    private Redisson redisson;
 
-    @Autowired
-    private StringRedisTemplate stringRedisTemplate;
+//    @Autowired
+//    private StringRedisTemplate stringRedisTemplate;
 
     @GetMapping("/test")
     public void test(){
-
-
 
 
     }
